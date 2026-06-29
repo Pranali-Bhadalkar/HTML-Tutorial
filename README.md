@@ -1,4 +1,4 @@
-# HTML - Tutorial
+# HTML-Tutorial
 
 Welcome to my **HTML Learning Journey** repository!
 
