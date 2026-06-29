@@ -45,7 +45,7 @@ This organization makes it easy for me to revise concepts and track my learning 
 
 ---
 
-## 💡 Why I Created This Repository
+## Why I Created This Repository
 
 * To practice HTML concepts with examples.
 * To improve my understanding through coding.
@@ -55,14 +55,14 @@ This organization makes it easy for me to revise concepts and track my learning 
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * HTML5
 * Visual Studio Code
 
 ---
 
-## 🎯 My Learning Goal
+## My Learning Goal
 
 I believe that consistent practice is the key to mastering web development.
 This repository reflects my progress as I continue learning HTML and preparing for more advanced frontend technologies.
